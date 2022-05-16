@@ -2,7 +2,10 @@
 
 
 library for advanced select options - Select2
-https://select2.github.io/select2/
+https://select2.org/
+
+Used 3.5.3 version in the project;
+https://select2.github.io/select2/ 
 
 
 # Working example 
