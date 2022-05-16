@@ -1,0 +1,11 @@
+{
+  "name": "gapp-script-custom-filter-select",
+  "version": "0.0.1",
+  "description": "Sample google app scripts with select filter and custom logic inside",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Shchetko",
+  "license": "ISC"
+}
